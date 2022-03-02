@@ -1,0 +1,26 @@
+/* style bagian header */
+header .div_menu {
+  background-color: #000;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.div_menu a {
+  color: #fff;
+}
+
+/* style bagian main */
+main .slider-div {
+  text-align: center;
+}
+
+main p {
+  text-align: justify;
+}
+
+/* style bagian footer */
+footer {
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+}
